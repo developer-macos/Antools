@@ -11,3 +11,10 @@ body{
     gap: 50px;
     list-style: none;
 }
+
+.menu{
+color: white;
+font-size: 16px;
+margin-left: 257px;
+gap: 20px;
+}
