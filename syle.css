@@ -5,3 +5,9 @@ body{
 .antools{
     color: white;
 }
+
+.ul-menu{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+}
